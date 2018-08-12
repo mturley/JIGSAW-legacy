@@ -8,7 +8,7 @@ I sort of succeeded...  don't look at the source, though.
 
 ## To run it
 
-I don't even know if it'll compile on new java. These .class files are from 2006.
+I don't even know if it'll compile on new java. These .class files are from 2008.
 
 You need a java runtime installed, and `java` to be on your path. On a mac, you can `brew cask install java`.
 
