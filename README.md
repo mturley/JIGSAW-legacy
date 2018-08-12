@@ -21,3 +21,5 @@ java JIGSandbox
 ## BEHOLD
 
 Controls are in the upper right. It even has a little REPL console.
+
+![screenshot](https://raw.githubusercontent.com/mturley/JIGSAW-legacy/master/screenshot.png)
