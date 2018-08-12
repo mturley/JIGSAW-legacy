@@ -20,6 +20,6 @@ java JIGSandbox
 
 ## BEHOLD
 
-Controls are in the upper right. It even has a little REPL console.
+Controls are in the upper right. It even has a little REPL console you can access with the C key.
 
 ![screenshot](https://raw.githubusercontent.com/mturley/JIGSAW-legacy/master/screenshot.png)
